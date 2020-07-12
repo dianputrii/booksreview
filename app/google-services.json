@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469518394619",
+    "firebase_url": "https://booksreview-116c8.firebaseio.com",
+    "project_id": "booksreview-116c8",
+    "storage_bucket": "booksreview-116c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469518394619:android:20f99c76602cb630d8fc5e",
+        "android_client_info": {
+          "package_name": "com.example.moviezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469518394619-i005ca0lmei0r9lfv0s64865h416jd66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviezone",
+            "certificate_hash": "25617257e3e917e78fa166ffdb44f947a5a880f2"
+          }
+        },
+        {
+          "client_id": "469518394619-r1084tjc2qmmgh7toh1fui2e76o42503.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCilMWFBeHyyUekeAfIu7YqIB17n3K0q5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469518394619-r1084tjc2qmmgh7toh1fui2e76o42503.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
