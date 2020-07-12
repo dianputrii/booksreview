@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:469518394619:android:20f99c76602cb630d8fc5e",
         "android_client_info": {
-          "package_name": "com.example.moviezone"
+          "package_name": "com.example.BooksReview"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "469518394619-i005ca0lmei0r9lfv0s64865h416jd66.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.moviezone",
+            "package_name": "com.example.BooksReview",
             "certificate_hash": "25617257e3e917e78fa166ffdb44f947a5a880f2"
           }
         },
